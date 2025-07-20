@@ -1,0 +1,53 @@
+# Arquivos executáveis
+imobiliaria
+imobiliaria.exe
+*.exe
+*.out
+
+# Arquivos de objeto
+*.o
+*.obj
+
+# Arquivos de biblioteca
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Arquivos de debug
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Arquivos temporários de compilação
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Arquivos de saída de teste
+saida*.txt
+output*.txt
+
+# Arquivos de IDE/Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de backup
+*.bak
+*.backup
+
+# Arquivos de log
+*.log
+
+# Arquivos de dependências
+*.d
